@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create App Banner",
+      "details": "Lorem epsom",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Connect Firebase db",
+      "details": "Lorem epsom",
+      "complete": true
+    },
+    {
+      "title": "check this update",
+      "details": "out!",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
